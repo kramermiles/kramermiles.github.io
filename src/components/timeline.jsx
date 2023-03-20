@@ -32,7 +32,7 @@ export default class Info extends Component {
 			                              <i className="icon-pen2" />
 			                            </div>
 			                            <div className="timeline-label">
-			                              <h2>I am an epic man<span1896-Present></span></h2>
+			                              <h2>I am an epic man<span>1896-Present</span></h2>
 			                              <p>me so epic so big L</p>
 			                            </div>
 			                          </div>

@@ -37,8 +37,8 @@ export default class About extends Component {
 			                          <i className="icon-bulb" />
 			                      </span>
 			                      <div className="desc">
-			                          <h3>Web Development </h3>
-			                          <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+			                          <h3>Making Money</h3>
+			                          <p>This website is just some Ideas for small jobs you can do to make money year long</p>
 			                      </div>
 			                      </div>
 			                  </div>
@@ -48,8 +48,8 @@ export default class About extends Component {
 			                          <i className="icon-phone3" />
 			                      </span>
 			                      <div className="desc">
-			                          <h3>Data Structures & Algorithms</h3>
-			                          <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+			                          <h3>Capability</h3>
+			                          <p>This can be used by anyone and there are plenty of jobs that don't need matierals</p>
 			                      </div>
 			                      </div>
 			                  </div>
@@ -59,8 +59,8 @@ export default class About extends Component {
 			                          <i className="icon-data" />
 			                      </span>
 			                      <div className="desc">
-			                          <h3>wait your telling me this guy who wrote the code that im changing is a coder</h3>
-			                          <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+			                          <h3>How much will I make?</h3>
+			                          <p>if you pursue these small jobs you can make a decent amount of money for a pretty small job</p>
 			                      </div>
 			                      </div>
 			                  </div>

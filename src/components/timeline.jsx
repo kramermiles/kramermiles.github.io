@@ -9,7 +9,7 @@ export default class Timeline extends Component {
 			                  <div className="row">
 			                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 			                      <span className="heading-meta">highlights</span>
-			                      <h2 className="colorlib-heading animate-box">Timeline</h2>
+			                      <h2 className="colorlib-heading animate-box">More Info</h2>
 			                    </div>
 			                  </div>
 			                  <div className="row">
@@ -21,8 +21,8 @@ export default class Timeline extends Component {
 			                              <i className="icon-pen2" />
 			                            </div>
 			                            <div className="timeline-label">
-			                              <h2>my penis sticked out for some reason<span>2019-present</span></h2>
-			                              <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+			                              <h2><span>About This Website</span></h2>
+			                              <p>This website is for my P3 Project and I think its pretty cool :D</p>
 			                            </div>
 			                          </div>
 			                        </article>

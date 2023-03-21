@@ -60,7 +60,7 @@ export default class Info extends Component {
 			                </div>
 			              </section>
 			            </div>
-			          )
+			          
 		   <h1>Summer Jobs</h1>
 <p>there are tons of job's to do over the summer but here are the main job's</p>
 <h2>Dog Walking</h2>

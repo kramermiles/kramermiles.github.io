@@ -61,7 +61,7 @@ export default class Info extends Component {
 			              </section>
 			            </div>
 			          )
-		   <h1>Summer Jobs</h1>
+		   <h1>Summer:Jobs</h1>
 <p>there are tons of job's to do over the summer but here are the main job's</p>
 <h2>Dog Walking</h2>
 <p>dog walking is a very common way for people to make money because there are tons of people that have dogs in many places</p<

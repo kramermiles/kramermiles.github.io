@@ -61,5 +61,13 @@ export default class Info extends Component {
 			              </section>
 			            </div>
 			          )
-		    }
+		   <h1>Summer Jobs</h1>
+<p>there are tons of jobs to do over the summer but here are the main obes</p>
+<h2>Dog Walking</h2>
+<p>dog walking is a very common way for people to make money because there are tons of people that have dogs in many places</p<
+<h2>Lawn Mowing</h2>
+<p>so many people in the world don't really enjoy mowing there own lawn so they usually either get there kids to do it or they hire someone and thats the point of this job (if you dont have a lawn mower do not worry there are plenty of other jobs on this list</p>
+<h2>Stands</h2>
+<p>there are so many stands you cant do over the summer and other seasons because you can do different things with your stand. Some of the main stand ideas are lemonade stands, iced tea stands, and any stands with cookies or treats</p>
+ }
 }

@@ -26,6 +26,19 @@ export default class Info extends Component {
 			                            </div>
 			                          </div>
 			                        </article>
+                                                <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                                                  <div className="timeline-entry-inner">
+                                                    <div className="timeline-icon color-4">
+                                                      <i className="icon-pen2" />
+                                                    </div>
+                                                    <div className="timeline-label">
+                                                      <h2>Summer Jobs <span>2023</span></h2>
+                                                      <p>there are a lot of summer jobs</p>
+                                                      <h3>Dog walking</h3>
+                                                      <p>where you walk a dog</p>
+                                                    </div>
+                                                  </div>
+                                                </article>
 			                        <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
 			                          <div className="timeline-entry-inner">
 			                            <div className="timeline-icon color-4">

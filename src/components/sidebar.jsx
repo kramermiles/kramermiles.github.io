@@ -25,8 +25,8 @@ export default class Sidebar extends Component {
 			                  </nav>
 			                  <nav id="colorlib-main-menu">
 			                    <ul>
-			                      <li><a href="https://www.facebook.com/POTUS/" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
-			                      <li><a href="https://twitter.com/POTUS" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
+			                      <li><a href="https://youtube.com/shorts/f2l-sG5Y_WM?feature=share" target="_blank" rel="noopener noreferrer"><i className="icon-youtube" /></a></li>
+			                      <li><a href="https://twitter.com/POTUS" target="_blank" rel="noopener noreferrer"><i className="icon-github" /></a></li>
 			                      <li><a href="https://www.instagram.com/joebiden/?hl=en" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
 			                      <li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD7FhEu7hMA9Bp8UY4xg8inSGuBKTlpvAkbg&usqp=CAU" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
 			                      <li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvT-qnoLuBxTonPgTEjSMDN_MDRgcEPLYOUA&usqp=CAU" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>

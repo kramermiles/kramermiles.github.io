@@ -26,8 +26,8 @@ export default class Sidebar extends Component {
 			                  <nav id="colorlib-main-menu">
 			                    <ul>
 			                      <li><a href="https://youtube.com/shorts/f2l-sG5Y_WM?feature=share" target="_blank" rel="noopener noreferrer"><i className="icon-youtube" /></a></li>
-			                      <li><a href="https://twitter.com/POTUS" target="_blank" rel="noopener noreferrer"><i className="icon-github" /></a></li>
-			                      <li><a href="https://www.instagram.com/joebiden/?hl=en" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
+			                      <li><a href="https://github.com/kramermiles" target="_blank" rel="noopener noreferrer"><i className="icon-github" /></a></li>
+			                      <li><a href="https://www.instagram.com/joebiden/?hl=en" target="_blank" rel="noopener noreferrer"><i className="icon-pinterest" /></a></li>
 			                      <li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD7FhEu7hMA9Bp8UY4xg8inSGuBKTlpvAkbg&usqp=CAU" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
 			                      <li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvT-qnoLuBxTonPgTEjSMDN_MDRgcEPLYOUA&usqp=CAU" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
 			                      <li><a href="https://i.scdn.co/image/ab67616d0000b2734e57c459c44ad93020529594" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>

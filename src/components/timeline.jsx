@@ -63,6 +63,8 @@ export default class Info extends Component {
 						<p>this is a VERY common thing that people will pay you to do and its not too hard</p>
 						<h3>Apple Cider</h3>
 						<p>in fall tons of people want to drink some nice hot apple cider so you can make a table or stand and sell it</p>
+						<h3>Pumkin Clean Up</h3>
+						<p>after halloween peoples pumpkins are rotting and no one really wants to touch that so you can to pumkin clean up around the neighborhood</p>
 			                            </div>
 			                          </div>
 			                        </article>

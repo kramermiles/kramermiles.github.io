@@ -76,13 +76,13 @@ export default class Info extends Component {
 			                             <p>here are some jobs you can do through out Winter</p>
 							 <h3>Snow Shoveling</h3> 
 							<p> there are tons of people who just do not want to do there snow shoveling so have just a cheap snow shovel can get you a pretty good profit (its even better if you have a machine that you can use)</p>
-							<h3>Bake Sale>
+							<h3>Bake Sale</h3>
  							<p>this one is very simular to the stand but with cookie and treats which are loved around the Winter holidays and if you want you can also sell hot cocoa</p>
 						<h3>Sidewalk Salting</h3>
 						<p>side walk salting is something people who hire you for and you can make a sort of deal and do salting and snow shoveling</p>
 						<h3>Pet Sitting</h3> 
 						<p>over the holidays tons of people go on vacation to place and they can't take care of there dog so they have to hire someone that is where you come in</p>
-			                           
+			                         </div>  
 			                          </div>
 			                        </article>
 			                        <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">

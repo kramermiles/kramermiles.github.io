@@ -36,7 +36,7 @@ export default class Info extends Component {
 			                        </article>
                                                 <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                                                   <div className="timeline-entry-inner">
-                                                    <div className="timeline-icon color-4">
+                                                    <div className="timeline-icon color-3">
                                                       <i className="icon-pen2" />
                                                     </div>
                                                     <div className="timeline-label">

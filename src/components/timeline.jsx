@@ -17,7 +17,7 @@ export default class Info extends Component {
 			                      <div className="timeline-centered">
 			                        <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
 			                          <div className="timeline-entry-inner">
-			                            <div className="timeline-icon color-3">
+			                            <div className="timeline-icon color-1">
 			                              <i className="icon-pen2" />
 			                            </div>
 			                            <div className="timeline-label">

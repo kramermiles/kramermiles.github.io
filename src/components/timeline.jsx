@@ -82,7 +82,7 @@ export default class Info extends Component {
 						<p>side walk salting is something people who hire you for and you can make a sort of deal and do salting and snow shoveling</p>
 						<h3>Pet Sitting</h3> 
 						<p>over the holidays tons of people go on vacation to place and they can't take care of there dog so they have to hire someone that is where you come in</p>
-			                            </div>
+			                           
 			                          </div>
 			                        </article>
 			                        <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">

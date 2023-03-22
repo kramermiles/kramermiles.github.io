@@ -33,9 +33,9 @@ export default class Info extends Component {
                                                     </div>
                                                     <div className="timeline-label">
                                                       <h2>Summer Jobs <span>2023</span></h2>
-                                                      <p>there are a lot of summer jobs</p>
+                                                      <p>there are a lot of summer jobs that you can do but here are the main ones</p>
                                                       <h3>Dog walking</h3>
-                                                      <p>where you walk a dog</p>
+                                                      <p>dog walking is an amazing way to make money because so many people have dogs</p>
                                                     </div>
                                                   </div>
                                                 </article>

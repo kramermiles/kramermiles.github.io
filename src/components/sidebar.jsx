@@ -29,14 +29,12 @@ export default class Sidebar extends Component {
 			                      <li><a href="https://github.com/kramermiles" target="_blank" rel="noopener noreferrer"><i className="icon-github" /></a></li>
 			                      <li><a href="https://pin.it/3xnjsUm" target="_blank" rel="noopener noreferrer"><i className="icon-pinterest" /></a></li>
 			                      <li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD7FhEu7hMA9Bp8UY4xg8inSGuBKTlpvAkbg&usqp=CAU" target="_blank" rel="noopener noreferrer"><i className="icon-roblox" /></a></li>
-			                      <li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvT-qnoLuBxTonPgTEjSMDN_MDRgcEPLYOUA&usqp=CAU" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
-			                      <li><a href="https://i.scdn.co/image/ab67616d0000b2734e57c459c44ad93020529594" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
 			                    </ul>
 			                  </nav>
 			                  <div className="colorlib-footer">
 			                    <p><small>
-			                        Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-beer" aria-hidden="true"></i><br></br>
-			                        Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration 
+			                        Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-sleep" aria-hidden="true"></i><br></br>
+			                         <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer"></a> 
 			                    </small></p>
 			                    <p><small>
 			    
